@@ -1,0 +1,26 @@
+{
+  "name": "detect-if-mobile",
+  "version": "1.0.0",
+  "author": "David Bishop",
+  "description": "A small utility to check if a user is on a mobile device in a comprehensive way.",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dBish6/detect-if-mobile.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dBish6/detect-if-mobile/issues"
+  },
+  "homepage": "https://github.com/dBish6/detect-if-mobile#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mobile",
+    "detect",
+    "detection",
+    "device",
+    "javascript"
+  ]
+}
