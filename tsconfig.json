@@ -6,6 +6,7 @@
     "skipLibCheck": true,
     "declaration": true,
     "outDir": "build",
+    // "sourceMap": true,
 
     "isolatedModules": true,
 
