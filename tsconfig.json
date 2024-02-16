@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "skipLibCheck": true,
+    "declaration": true,
+    "outDir": "build",
+
+    "isolatedModules": true,
+
+    "strict": true
+  },
+  "include": ["**/*.ts"],
+  "exclude": ["node_modules", "build", "**/*.cjs", "**/*.test*"]
+}
