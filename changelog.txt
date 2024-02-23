@@ -7,3 +7,6 @@ v1.1.2
 
 v1.1.3
 - README Title fix.
+
+v1.1.4
+- New README content.
