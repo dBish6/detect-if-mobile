@@ -26,7 +26,7 @@ const isMobileExample = () => {
   }, [])
 }
 
-export default isMobileExample
+export default isMobileExample;
 ```
 ### Vue
 ```
