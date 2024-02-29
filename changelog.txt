@@ -11,5 +11,5 @@ v1.1.3
 v1.1.6
 - New README content.
 
-v1.1.7
+v1.1.8
 - Removed checking for touch support because it was causing issues with production level applications and not only mobile devices can have touch support.
