@@ -13,3 +13,6 @@ v1.1.6
 
 v1.1.8
 - Removed checking for touch support because it was causing issues with production level applications and not only mobile devices can have touch support.
+
+v1.1.9
+- types path fix.
