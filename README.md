@@ -1,8 +1,8 @@
-# detect-if-mobile NPM Package
+# detect-if-mobile
 A small utility to check if a user is on a mobile device in a comprehensive way.
 
 ## Installation
-This npm package works as long as you're running it in the browser. It seamlessly integrates with front-end environments and frameworks, including Vanilla, Vue, React, and more.
+This package works as long as you're running it in the browser. It seamlessly integrates with front-end environments and frameworks, including Vanilla, Vue, React, and more.
 
 ```
 $ npm i detect-if-mobile
